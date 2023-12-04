@@ -1,0 +1,1388 @@
+[
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/clpcb6azb0766081l6d753w79/assets/clpcc0awp0014356j32q9ovz3/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T034337Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=04719ea7fd9541b837067872313da4ccf564ad735773b2389a317b2107f4970af78807e5c2ff7aadf4db5969f8bdd6e956427d26986330754bc61b0d8ece49b64b07971eb0f0d1f3d79c7372fa9ed02b1a4a73639336b981503f91fa255982c3e38e1307ccb50c5fcb4b654c33ed2ec6f15907173be81429fe037bec76be9d1f575cbd9d7a10a349410339cc563e719a74161d66221e4668b04b988090beb8564f2c9bb2366cbc765e64a07b4e0cb506e6374ef504654e4a8c16dbacef796b906084cc2940c8a13919762ddd99bb192e3192d598be7ac169793eecd0651e67922afbad17991a0138847d1c6f681af9f9723e1d835868179ef3f36cc699ed2033",
+        "externalId": "split_18_clean.txt",
+        "id": "clpcc0awp0014356j32q9ovz3",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "222011374@stis.ac.id",
+                "firstname": "alwan",
+                "id": "clp98iznf11eg085s5jx2hyyl",
+                "lastname": "subian",
+                "name": "alwan subian"
+            },
+            "createdAt": "2023-11-24T08:04:23.818Z",
+            "isLatestLabelForUser": true,
+            "jsonResponse": {
+                "NAMED_ENTITIES_RECOGNITION_JOB": {
+                    "annotations": [
+                        {
+                            "beginOffset": 617,
+                            "categories": [
+                                {
+                                    "name": "METODE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Hierarchical Bayes pada Small Area Estimation",
+                            "endOffset": 662,
+                            "mid": "20231124150222580-17"
+                        },
+                        {
+                            "beginOffset": 903,
+                            "categories": [
+                                {
+                                    "name": "TUJUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "membangun R Package pada Spatial Fay-Herriot Model",
+                            "endOffset": 953,
+                            "mid": "20231124150321470-21"
+                        },
+                        {
+                            "beginOffset": 992,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "R Package yang dibangun diberi nama \u2018saeHB.spatial\u2019",
+                            "endOffset": 1043,
+                            "mid": "20231124150356222-23"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    },
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/clpcb6azb0766081l6d753w79/assets/clpcc0awp0015356jabg47lp0/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T034337Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=48e5ccb3d161d844302d14d320a381dd2e1ba34a5c6055976632d6dc7228aa42fc4d581e562f46eea2eb417053b91c5befef729b137ab82870a2f6dba0eb2656bf6f067b78e67af9f2033ee1fb352554130aa72f20439d2cdb6c37c3e396939add77fdad2f1786b203d270e5e119b00ecf4b8d7592781068a41ac6cd0eff84673dc196649e49161212de2b2ca6ebe5f4433d26a6de728b65685d2e858d98b72b997cedd8f1c90d3fdf79defdae4e5e7c0a3acdf4b4ec3daac077fef599689c8b2b4f4fb5f205d03f4aec56f1656cb0657586b473a98ed79381fd15d911ad1d834c5fed25509243d00eaf310df1ebeba4ebb82be1af8e046e82fe2dee06febffd",
+        "externalId": "split_19_clean.txt",
+        "id": "clpcc0awp0015356jabg47lp0",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": null,
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": true
+    },
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/clpcb6azb0766081l6d753w79/assets/clpcc0awp0016356jqf7jymrw/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T034337Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=9863cf57336cfcfe33653bff11e3105e49368052ca7f102afa63403c57660fa105662a35559dc7f95eda793a420d262dc16e3467ce8a6fd041c52d1a97444ca8149d6c92e82a2c3b353202f6eb6929ec49e4c7d6725d1fddc9f2ec839d60f39dddff08366dee9ef8ea2702322c9578df2cebc72b206a4d0afded6d1abccd85ea21ac01b3e2f41ad819a8051878dbe78b2e43fe0e6b87021b709f90f294c25987345792700ef51c0c601ae93d924fcc97d1423f2c33adfc56ea2269b6c7d3830fb48c643fb6712626c200807f32b596b9ab3fd666d7e78839aa2682473d8c08868b5ebb0be6921eba253bd1fab1f8a3886543fa14d734c88e5cb1ce30aa4cfd05",
+        "externalId": "split_20_clean.txt",
+        "id": "clpcc0awp0016356jqf7jymrw",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "222011374@stis.ac.id",
+                "firstname": "alwan",
+                "id": "clp98iznf11eg085s5jx2hyyl",
+                "lastname": "subian",
+                "name": "alwan subian"
+            },
+            "createdAt": "2023-11-25T13:38:18.272Z",
+            "isLatestLabelForUser": true,
+            "jsonResponse": {
+                "NAMED_ENTITIES_RECOGNITION_JOB": {
+                    "annotations": [
+                        {
+                            "beginOffset": 928,
+                            "categories": [
+                                {
+                                    "name": "METODE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "SDLC model waterfall",
+                            "endOffset": 948,
+                            "mid": "20231125203659908-4"
+                        },
+                        {
+                            "beginOffset": 676,
+                            "categories": [
+                                {
+                                    "name": "TUJUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "pengembangan sebuah sistem jual beli online berbasis web untuk mahasiswa Polstat STIS",
+                            "endOffset": 761,
+                            "mid": "20231125203739909-7"
+                        },
+                        {
+                            "beginOffset": 1046,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "sistem berfungsi dengan baik dan bisa diterima oleh pengguna",
+                            "endOffset": 1106,
+                            "mid": "20231125203803467-9"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    },
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/clpcb6azb0766081l6d753w79/assets/clpcc0awp0017356jbku5ht43/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T034337Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=c5aec8c5aa1309ae2b7c33374f68e1e35679f58c259bc2e7e9cf91cd46d544479177a14669f250bb1581377a6986adade94641d70953fed034e78d9fc7e38451c5b01a0a4028d82f808e79d5738a7b77b2dd75044303f1fb20a3697f9766cc30146d04151885f8c887138fd012490b377f4b5693ad50b0b45344a45a8f7e3209c198bfeef0a25352790eb6365f9de19e778ed4ce9a3fb8870b30c9967f792cc1c248d33a7ec531d50051336d738f353acd36d22b81674d6707d6bef0993460749a537cd88a680879d76d8a7cae88f40affac3684f178353c11a172f5b2d3cc7af11ef05a85e2b90bf74329bcd7732aeed22d7169a6b7fd846dd02341388424d6",
+        "externalId": "split_1_clean.txt",
+        "id": "clpcc0awp0017356jbku5ht43",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "222011374@stis.ac.id",
+                "firstname": "alwan",
+                "id": "clp98iznf11eg085s5jx2hyyl",
+                "lastname": "subian",
+                "name": "alwan subian"
+            },
+            "createdAt": "2023-11-25T13:46:53.410Z",
+            "isLatestLabelForUser": true,
+            "jsonResponse": {
+                "NAMED_ENTITIES_RECOGNITION_JOB": {
+                    "annotations": [
+                        {
+                            "beginOffset": 487,
+                            "categories": [
+                                {
+                                    "name": "TUJUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "menentukan faktor-faktor yang memengaruhi terjadinya perbedaan capaian vaksinasi COVID-19 di Provinsi Jambi",
+                            "endOffset": 594,
+                            "mid": "20231125203825204-12"
+                        },
+                        {
+                            "beginOffset": 435,
+                            "categories": [
+                                {
+                                    "name": "METODE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "analisis regresi berganda dan regresi spasial",
+                            "endOffset": 480,
+                            "mid": "20231125203848820-14"
+                        },
+                        {
+                            "beginOffset": 772,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Faktor-faktor yang signifikan memengaruhi capaian vaksinasi COVID-19 berdasarkan model SAR adalah tingkat pengangguran terbuka, persentase penduduk yang memiliki jaminan kesehatan, rasio rumah sakit per satuan penduduk, dan kepadatan penduduk.",
+                            "endOffset": 1015,
+                            "mid": "20231125203857930-17"
+                        },
+                        {
+                            "beginOffset": 1052,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "dashboard sederhana untuk menampilkan pemetaan hasil estimasi capaian vaksinasi COVID-19 di Provinsi Jambi",
+                            "endOffset": 1158,
+                            "mid": "20231125203925295-18"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    },
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/clpcb6azb0766081l6d753w79/assets/clpcc0awp0018356j7o7pgvyi/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T034337Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=13b53f1f4d6ae03f52ca200a4dc54c79e49e9d883d70c5eacccc4c89e62d782d0d2e72251dbeec032f8295024a98ab06bb843dfdcbaab733fe22486a0dae0f009ecbdb6088bd25b29b8f950c6a707eb6958156492b5ec327f0024badf2845b900f492e979335c0c7c361d35f8f9c0ff7e3f24fc2affa5bf086a744341f979f32b19377c0d861e60b133f325fd3d8790e2449026ccdc6a6503f7c7f4ae8e49f3a02810feb628b516c866a22d59c9e55254154a131c2e6389d13a0dc5d92af061b2cbab367698a5fa6e113dbe6310c57f13807b68d5072ecda7d1f054574424f34a79d42b3fac6b977fca879f30e3753c298aec378341cd1c0d27a7c47b42e5fac",
+        "externalId": "split_2_clean.txt",
+        "id": "clpcc0awp0018356j7o7pgvyi",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "222011374@stis.ac.id",
+                "firstname": "alwan",
+                "id": "clp98iznf11eg085s5jx2hyyl",
+                "lastname": "subian",
+                "name": "alwan subian"
+            },
+            "createdAt": "2023-11-25T14:03:41.145Z",
+            "isLatestLabelForUser": true,
+            "jsonResponse": {
+                "NAMED_ENTITIES_RECOGNITION_JOB": {
+                    "annotations": [
+                        {
+                            "beginOffset": 517,
+                            "categories": [
+                                {
+                                    "name": "TUJUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "kajian data yang lebih cepat salah satunya data Twitter untuk melihat potensinya sebagai data pelengkap dari indikator IPKM",
+                            "endOffset": 640,
+                            "mid": "20231125210154909-21"
+                        },
+                        {
+                            "beginOffset": 723,
+                            "categories": [
+                                {
+                                    "name": "METODE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "metode pemodelan topik LDA dan analisis sentimen VADER",
+                            "endOffset": 777,
+                            "mid": "20231125210238788-23"
+                        },
+                        {
+                            "beginOffset": 860,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "weet lebih banyak mengandung sentimen yang positif",
+                            "endOffset": 910,
+                            "mid": "20231125210245541-25"
+                        },
+                        {
+                            "beginOffset": 923,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "pemodelan topik menghasilkan jumlah topik yang beragam tiap tahunnya",
+                            "endOffset": 991,
+                            "mid": "20231125210322346-27"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    },
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/clpcb6azb0766081l6d753w79/assets/clpcc0awp0019356jarli7i8k/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T034337Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=88a25e309d905134fb6139296d29103b39a71e3c7defa015af6c632096371600551270d8ae86f92aaddab7d25faa5245203d23c9a0ac1886e33cd1d55844dc0597ecc900a21cc8c2e963b7cc5d677af1cfc9c4601ae9ef8d95a50a0dcccadbb04f27e2dab3cd754ab81c8db2adec7b97805fddfebd2fad55345fbc7727e4c58f7c5b01519ac1abe88fd62c5ce972e8543238a385db205a889bdd339f6b13ca2fc0840c0bcad60214b0f6b38ec4cd1829762eaefe7664d429c84f0609d282e90b93b16e906f683114b97a4a31e6da76b591ffcf7967ae4ba35478601c0019def49df7795b06ee9579dafcf8bb0f1b3c3b814fa45b49517a93dcecd3318346bae0",
+        "externalId": "split_3_clean.txt",
+        "id": "clpcc0awp0019356jarli7i8k",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "222011374@stis.ac.id",
+                "firstname": "alwan",
+                "id": "clp98iznf11eg085s5jx2hyyl",
+                "lastname": "subian",
+                "name": "alwan subian"
+            },
+            "createdAt": "2023-11-25T14:04:37.791Z",
+            "isLatestLabelForUser": true,
+            "jsonResponse": {
+                "NAMED_ENTITIES_RECOGNITION_JOB": {
+                    "annotations": [
+                        {
+                            "beginOffset": 363,
+                            "categories": [
+                                {
+                                    "name": "TUJUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "perlu dikembangkan sistem ujian yang mencakup pengerjaan ujian.",
+                            "endOffset": 426,
+                            "mid": "20231125210353101-29"
+                        },
+                        {
+                            "beginOffset": 626,
+                            "categories": [
+                                {
+                                    "name": "METODE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Software Development Life Cycle (SDLC) dengan model parallel development",
+                            "endOffset": 698,
+                            "mid": "20231125210411124-32"
+                        },
+                        {
+                            "beginOffset": 926,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "sistem usulan bisa dikategorikan baik",
+                            "endOffset": 963,
+                            "mid": "20231125210423837-34"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    },
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/clpcb6azb0766081l6d753w79/assets/clpcc0awp001a356jdr77bf7v/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T034337Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=54a16a62f5b64bf61702f11431088119e05b60050f85b5fd9657a16a0cb8bd0a71021827543c6b5f3570cc36f959462a74a59fb86a9203ce4a1ab953fe0093ed177cfc17312d00f5f1d0d75ce9deb81458a156f52b2641cf4408fb5864ee9754237f66ba2842635cad6d02e8f624010a216a53d4ad52b1be4efc2cae5074f7aae87b8cd052b28007268f77aba80bff641f199b6eb3acfc393107f731d19dca19657f42d1f63bd2a6dda34738fcc40d2b993ecaebf1c28adc0c102fa51598dad9f155ad3ab04caa6b55ad7ae1cfeed3c902ba2c9d97f50fe081871ee70865408ffa1a36997c87d65fcd431629010f6529541c08f700606ffc5fccafb7c344d863",
+        "externalId": "split_4_clean.txt",
+        "id": "clpcc0awp001a356jdr77bf7v",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "222011374@stis.ac.id",
+                "firstname": "alwan",
+                "id": "clp98iznf11eg085s5jx2hyyl",
+                "lastname": "subian",
+                "name": "alwan subian"
+            },
+            "createdAt": "2023-11-25T14:09:01.013Z",
+            "isLatestLabelForUser": true,
+            "jsonResponse": {
+                "NAMED_ENTITIES_RECOGNITION_JOB": {
+                    "annotations": [
+                        {
+                            "beginOffset": 531,
+                            "categories": [
+                                {
+                                    "name": "TUJUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "mendeteksi lahan perkebunan karet di Kabupaten Musi Banyuasin, Provinsi Sumatera Selatan",
+                            "endOffset": 619,
+                            "mid": "20231125210708228-36"
+                        },
+                        {
+                            "beginOffset": 1164,
+                            "categories": [
+                                {
+                                    "name": "METODE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "metode machine learning model random forest",
+                            "endOffset": 1207,
+                            "mid": "20231125210742733-38"
+                        },
+                        {
+                            "beginOffset": 1064,
+                            "categories": [
+                                {
+                                    "name": "METODE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "metode deep learning",
+                            "endOffset": 1084,
+                            "mid": "20231125210842170-41"
+                        },
+                        {
+                            "beginOffset": 1136,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Hasil penelitian menunjukan metode machine learning model random forest memberikan hasil terbaik dengan nilai F1-score sebesar 92,56 persen",
+                            "endOffset": 1275,
+                            "mid": "20231125210853275-43"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    },
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/clpcb6azb0766081l6d753w79/assets/clpcc0awp001b356jnz4d4kuu/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T034337Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=5aa7436429b8ef84baf6be789400b898dcc48a659825ce5a54295590a899ae7dec83f1c9f3516cd7b15ac43a18e61bc537f86e59f610e7d1b1551c053b1975053ae3bf7c1c4d1c90f8adc0c10e77c8ff5d55b6976de06c037635686de030ab347754747bf837037948c489c02e1fcd84072dee40b69d9673907a87cb3e28cdf25c8086cbdec24c3b16d84b5353cc699aaa9627bdd1910faabbd9ea31b0a63d370dafd733a5eb5eb49f5cd9396be397537781f849f426cbecfe7ca51e3f9543026f272fe3c28b4679b674b415daf7b0c234ef50df1e4efa00b066cdc5d4e4bd7779a4515cc2e0d3618a00faa319d143e212ac42a084580760792dff60db9f78ff",
+        "externalId": "split_5_clean.txt",
+        "id": "clpcc0awp001b356jnz4d4kuu",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "222011374@stis.ac.id",
+                "firstname": "alwan",
+                "id": "clp98iznf11eg085s5jx2hyyl",
+                "lastname": "subian",
+                "name": "alwan subian"
+            },
+            "createdAt": "2023-11-25T14:14:14.810Z",
+            "isLatestLabelForUser": true,
+            "jsonResponse": {
+                "NAMED_ENTITIES_RECOGNITION_JOB": {
+                    "annotations": [
+                        {
+                            "beginOffset": 482,
+                            "categories": [
+                                {
+                                    "name": "METODE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "System Development Life Cycle (SDLC) Waterfall",
+                            "endOffset": 528,
+                            "mid": "20231125211316924-45"
+                        },
+                        {
+                            "beginOffset": 84,
+                            "categories": [
+                                {
+                                    "name": "TUJUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "membangun sistem informasi seleksi mitra statistik secara terintegrasi",
+                            "endOffset": 154,
+                            "mid": "20231125211343093-46"
+                        },
+                        {
+                            "beginOffset": 685,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Dihasilkan: 1) sistem informasi seleksi mitra statistik terintegrasi pada tahapan administrasi, tes tulis, dan tes wawancara; 2) sistem informasi seleksi mitra statistik menyediakan basis data calon mitra yang mengikuti kegiatan seleksi; 3) berdasarkan black box testing menunjukkan fungsi atau fitur sistem yang dibangun berhasil dioperasikan; 4) nilai rata-rata System Usability Scale (SUS) \u201cSIMISTAT\u201d sebesar 74 pada grade B, dapat diterima pengguna dengan kategori sistem yang dibangun good.",
+                            "endOffset": 1180,
+                            "mid": "20231125211412060-47"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    },
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/clpcb6azb0766081l6d753w79/assets/clpcc0awp001c356j5ox35zd3/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T034337Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=2d16ed87ee2c7f03d17e0d95cbbb24f3ff13400e464dfa2ea68ed9c8255145a055141465f088c5a23f4276afa255376e42bd3f5b469f04321223a7460175fb83621d91e48c616c2c0d5147620da056ffc2960298b445cbbc5f155cf5ac552b9303d9897532104ac27c036ed06ef9ebb12b4f720f37b8f0e159111af5bf6f77e03db86f456c4e4d91aae280d77880c9004955e5420b66599e12a1e6b76bf1fcc0a3e7f4ddd46640b8bd8e121fcfcfd707d1e81bc689cba0eb5ab63557c1c979b924f18d41f458be98b4df5d06376ddcca882884ed9b0bf4f772363a817b3836aab538d73d332289640f94a05794d32078b72a5f57d061269ff0f8b6d2d906d322",
+        "externalId": "split_6_clean.txt",
+        "id": "clpcc0awp001c356j5ox35zd3",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "222011374@stis.ac.id",
+                "firstname": "alwan",
+                "id": "clp98iznf11eg085s5jx2hyyl",
+                "lastname": "subian",
+                "name": "alwan subian"
+            },
+            "createdAt": "2023-11-25T14:15:33.478Z",
+            "isLatestLabelForUser": true,
+            "jsonResponse": {
+                "NAMED_ENTITIES_RECOGNITION_JOB": {
+                    "annotations": [
+                        {
+                            "beginOffset": 356,
+                            "categories": [
+                                {
+                                    "name": "TUJUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "mengoptimalkan penentuan parameter awal pada ST-DBSCAN menggunakan metode k Nearest neighborhood dan Algoritma Genetika",
+                            "endOffset": 475,
+                            "mid": "20231125211430026-48"
+                        },
+                        {
+                            "beginOffset": 423,
+                            "categories": [
+                                {
+                                    "name": "METODE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "metode k Nearest neighborhood dan Algoritma Genetika",
+                            "endOffset": 475,
+                            "mid": "20231125211502422-52"
+                        },
+                        {
+                            "beginOffset": 684,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "cluster dengan koefisien CDbw terbesar pada perbandingan evaluasi",
+                            "endOffset": 749,
+                            "mid": "20231125211520213-55"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    },
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/clpcb6azb0766081l6d753w79/assets/clpcc0awp001d356j8x0c0wls/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T034337Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=847640682e8d5273c6e6805f6c66561a561add4e162d681d438f1e385e998b3d3377ab182a524c4f80217dc298c73190a14ec54b027dfb972db3ae5c2be3f4185a54657f9b3d44810feb20413bc4335062b6ffce6ade87154c73ce46c49f1fa32dea7341d647934e73873ccc6e3366ad5f44624703cbb56a9efe55a0ec913f1843714bce844a5e7bb71a181768c6a0e66fc06829c7b87800ed0e14d4d37e6f66df4938f0a0548da68bf26bae9804c868301b4cc8f08ea6ed801fec4103cf4487745a7a74d6599a1eb681a7bf39ada6abce185016367b20b71ba58a70be6700d0c511fdc761eb2ee8c02d4600b839cf1970141eabc9fa2f01c26385eaf16d141a",
+        "externalId": "split_7_clean.txt",
+        "id": "clpcc0awp001d356j8x0c0wls",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "222011374@stis.ac.id",
+                "firstname": "alwan",
+                "id": "clp98iznf11eg085s5jx2hyyl",
+                "lastname": "subian",
+                "name": "alwan subian"
+            },
+            "createdAt": "2023-11-25T14:25:42.821Z",
+            "isLatestLabelForUser": true,
+            "jsonResponse": {
+                "NAMED_ENTITIES_RECOGNITION_JOB": {
+                    "annotations": [
+                        {
+                            "beginOffset": 766,
+                            "categories": [
+                                {
+                                    "name": "TUJUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "kesuksesan SIPADU Web Portal Mahasiswa dan faktor-faktor yang memengaruhinya sebagai sistem informasi akademik.",
+                            "endOffset": 877,
+                            "mid": "20231125212429048-57"
+                        },
+                        {
+                            "beginOffset": 949,
+                            "categories": [
+                                {
+                                    "name": "METODE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Model Kesuksesan sistem informasi DeLone & McLean",
+                            "endOffset": 998,
+                            "mid": "20231125212517586-59"
+                        },
+                        {
+                            "beginOffset": 1164,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "seluruh variabel prediktor terbukti berpengaruh positif dan signifikan dan memberikan validasi pada Model Kesuksesan Sistem Informasi DeLone & McLean",
+                            "endOffset": 1313,
+                            "mid": "20231125212529662-61"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    },
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/clpcb6azb0766081l6d753w79/assets/clpcc0dkt001o356jpqs611j3/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T034337Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=890cf0ea5bfe0d20a4a11139e4a1cc439021d3b25cd31cb51309b97c9685ff51f2ca046fdfd942890c72ed584eec1ad1a2b5f7f72edcccd7f0fd8a05ee1c06e4a3c33f8874aa52651eeb72439723a676a2d4b3c029d4c76f1975fcd2269c94c5bcfc0e4eb16e48114defdc6c18200ec7c5783f31613f04108645933a059a8bf2a9320555bd955bd1f257fee0656e6280c4388c37d567db8bbbdaf967d8692f579f749c5eb9178fe4348a39bda521b87b2bb3f559365f9159a6ad88f7f4560379b91b896a221bf4938e3808ad1411d6bade9575eae6388667d03064c48bddf45b2c1979377797204120f60610e3b2e58c136c9655693bdbef6985745d19f6cb56",
+        "externalId": "split_8_clean.txt",
+        "id": "clpcc0dkt001o356jpqs611j3",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "222011374@stis.ac.id",
+                "firstname": "alwan",
+                "id": "clp98iznf11eg085s5jx2hyyl",
+                "lastname": "subian",
+                "name": "alwan subian"
+            },
+            "createdAt": "2023-11-25T14:50:19.069Z",
+            "isLatestLabelForUser": true,
+            "jsonResponse": {
+                "NAMED_ENTITIES_RECOGNITION_JOB": {
+                    "annotations": [
+                        {
+                            "beginOffset": 724,
+                            "categories": [
+                                {
+                                    "name": "TUJUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "membandingkan Microsoft SQL Server dan Hyperledger Fabric dari segi fitur dan performa",
+                            "endOffset": 810,
+                            "mid": "20231125214051135-63"
+                        },
+                        {
+                            "beginOffset": 1255,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Microsoft SQL Server menghasilkan performa yang lebih unggul dibandingkan Hyperledger Fabric",
+                            "endOffset": 1347,
+                            "mid": "20231125214134343-66"
+                        },
+                        {
+                            "beginOffset": 1018,
+                            "categories": [
+                                {
+                                    "name": "METODE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Pengujian kueri Hyperledger Fabric dilakukan melalui CLI dan CouchDB",
+                            "endOffset": 1086,
+                            "mid": "20231125215014197-71"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    },
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/clpcb6azb0766081l6d753w79/assets/clpcc0dkt001p356j52eadnsu/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T034337Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=68912e09f9aeb00b17d5dc4380175ed4285614429c008734fdf77674555846400e979d6697f051c3df950bbae86c74fc0eda2dfe1b411c411fd28e497c20c0927eca2d8210f6cc41f11793cf730e99da34535e1cf36df69d24ae6b03326e78856fd1ecabc0f20ddeb3caa3760a4f541d278ca98153af032ace39105542bada43fe0d7a73c245231880a9e53b9ee6acca0bfc1e033c4723b51be9a728b064c49662ba268cbb3cf7a1fd535042d11831e7b704c5f0165d703317ee0a8561c4d8d3f2f12e0610bd07e422a47de95ecd827298bee69c5dca0b518b67c3f93323dacde3a65b07d9f67a37f0b6573b32da4c56f7088fdccba25822bb92f2c7e6097397",
+        "externalId": "split_9_clean.txt",
+        "id": "clpcc0dkt001p356j52eadnsu",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "222011374@stis.ac.id",
+                "firstname": "alwan",
+                "id": "clp98iznf11eg085s5jx2hyyl",
+                "lastname": "subian",
+                "name": "alwan subian"
+            },
+            "createdAt": "2023-11-28T01:19:27.285Z",
+            "isLatestLabelForUser": true,
+            "jsonResponse": {
+                "NAMED_ENTITIES_RECOGNITION_JOB": {
+                    "annotations": [
+                        {
+                            "beginOffset": 797,
+                            "categories": [
+                                {
+                                    "name": "TUJUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "membangun sebuah aplikasi berbasis webGIS (web Geographic Information System)",
+                            "endOffset": 874,
+                            "mid": "20231128081230450-8"
+                        },
+                        {
+                            "beginOffset": 1047,
+                            "categories": [
+                                {
+                                    "name": "METODE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "metode Rapid Application Development (RAD)",
+                            "endOffset": 1089,
+                            "mid": "20231128081812756-10"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    },
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/clpcb6azb0766081l6d753w79/assets/clpcc0dkt001q356j55huwgpy/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T034337Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=8ae9bd520b8bb9a2cfa6f859d4dd48285a7beaa0f8aff99957226d1e63942845d2f0cb4fec74e41468e0efcf57af2acc41ec288f7d36f8bdf14b14758b6c874980cd3d3f6b395fcfbdb2cc358dc7e164c06e4ee69aeb4dca2d6ed5d1028f099e609475d63bdf584545b8a2b68bd3bc7fe46e1ad13d1e27bf57869378ee8c6c18f67df7b46bb084b0f3b3ec83bf02c6a055fac46bf96ee6095c7d26c812593a79cbde5f2f5d4210b30e99ffdd36cdcd3493fd6960a78eb5ffc72bcfe86b9dc2d29e10d3ba2c05bf203cd5c17177cd55099e5ccaf730d48ce62c1401ffcf3d49c5cbd96995f3ec9e0bd926bff19e82824b546e895cb12c1edea18497e86da44af6",
+        "externalId": "split_10_clean.txt",
+        "id": "clpcc0dkt001q356j55huwgpy",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "222011374@stis.ac.id",
+                "firstname": "alwan",
+                "id": "clp98iznf11eg085s5jx2hyyl",
+                "lastname": "subian",
+                "name": "alwan subian"
+            },
+            "createdAt": "2023-11-25T14:52:14.289Z",
+            "isLatestLabelForUser": true,
+            "jsonResponse": {
+                "NAMED_ENTITIES_RECOGNITION_JOB": {
+                    "annotations": [
+                        {
+                            "beginOffset": 203,
+                            "categories": [
+                                {
+                                    "name": "TUJUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "evaluasi dan peningkatan kualitas aplikasi melalui berbagai metode ekstraksi informasi",
+                            "endOffset": 289,
+                            "mid": "20231125215028110-72"
+                        },
+                        {
+                            "beginOffset": 443,
+                            "categories": [
+                                {
+                                    "name": "METODE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "model BERT",
+                            "endOffset": 453,
+                            "mid": "20231125215038209-74"
+                        },
+                        {
+                            "beginOffset": 630,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "perlakuan data preprocessing terbaik mencapai nilai tertinggi di setiap matriks evaluasi, tetapi perlakuan data preprocessing yang berlebihan justru berdampak negatif pada kinerja model",
+                            "endOffset": 815,
+                            "mid": "20231125215045852-76"
+                        },
+                        {
+                            "beginOffset": 1112,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "meskipun ada pendapat positif tentang aplikasi, masih ditemukan ketidak puasan pengguna terhadap beberapa masalah",
+                            "endOffset": 1225,
+                            "mid": "20231125215054381-77"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    },
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/clpcb6azb0766081l6d753w79/assets/clpcc0dkt001r356jcmjllfsx/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T034337Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=86d177a6699740cdfb6eea66d925d52e92d0a497bff75c45fe2fe07ad9de041560e5f7466a940c51fe576e80dd834e2269266b86e9b401f66853dda975e04eff84169e3b4daf241ff0db208a7e1ecbc524763b85140b92f2befb78704d45e38524045869a9462f001d3419d3f51d4c4b54851ea006a7bd85b344f850691c8174810748d294c8ae4ee7502c0f2f750e143613270d659006ab93957c41659a9dfdbae1eda3804860d0e3c603a03ba0d7d5c0896057056d0dfc6ddb6d48b68ddf7f773cf8100f94b1dfb75c720c2d8f4138c833182f12f5766e06cce0df06f345b3a54f7c3287d99e26be9e9fd615b0ac6cf77f6468e3da8a6b6d451068c7f5cc38",
+        "externalId": "split_11_clean.txt",
+        "id": "clpcc0dkt001r356jcmjllfsx",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "222011374@stis.ac.id",
+                "firstname": "alwan",
+                "id": "clp98iznf11eg085s5jx2hyyl",
+                "lastname": "subian",
+                "name": "alwan subian"
+            },
+            "createdAt": "2023-11-25T14:55:11.098Z",
+            "isLatestLabelForUser": true,
+            "jsonResponse": {
+                "NAMED_ENTITIES_RECOGNITION_JOB": {
+                    "annotations": [
+                        {
+                            "beginOffset": 0,
+                            "categories": [
+                                {
+                                    "name": "TUJUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Pengembangan metode clustering",
+                            "endOffset": 30,
+                            "mid": "20231125215338224-83"
+                        },
+                        {
+                            "beginOffset": 707,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "mengembangkan package R \u2018fakmct\u2019 dan telah tersedia pada situs Comprehensive R Archive Network (CRAN)",
+                            "endOffset": 808,
+                            "mid": "20231125215347704-85"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    },
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/clpcb6azb0766081l6d753w79/assets/clpcc0dkt001s356jue8n4zvj/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T034337Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=bda06f597acea5ba9bf858b9ec2eb1fb486db22eda697182b7d9b6d115e4db67b16725b88e4418bab0687fd32a051a340b5257b4733c0379563fa8760f8bfb6cfe30238cc675caf3d26e28e926a1fe2490c83c65001a2edd6f2336cc05a5872e4c9c6d4004cfa17456f0cdaf2419042cc4168e1c20b98dbeeac544900e4a9db3de23aad40cf4a0223efb4ae7b17cf39406e6b9c07c219f2bad49ae5bfacff4421905ed763bfbca6d3b9514ea3f090e368c99563d795ddfeae97f8fdf278d5fe6071e94318da07a27ed1ea256549caebed6ed02456d8c00d9317927d85dd0719b831fa7d9f8037eaa9de05a5140826ecf3ddd900b1ebfb096fc8abeabbc2d938e",
+        "externalId": "split_12_clean.txt",
+        "id": "clpcc0dkt001s356jue8n4zvj",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "222011374@stis.ac.id",
+                "firstname": "alwan",
+                "id": "clp98iznf11eg085s5jx2hyyl",
+                "lastname": "subian",
+                "name": "alwan subian"
+            },
+            "createdAt": "2023-11-28T01:04:53.733Z",
+            "isLatestLabelForUser": true,
+            "jsonResponse": {
+                "NAMED_ENTITIES_RECOGNITION_JOB": {
+                    "annotations": [
+                        {
+                            "beginOffset": 121,
+                            "categories": [
+                                {
+                                    "name": "TUJUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "mengetahui pengaruh suatu provinsi dengan provinsi yang berdekatan dengannya",
+                            "endOffset": 197,
+                            "mid": "20231128080349394-1"
+                        },
+                        {
+                            "beginOffset": 332,
+                            "categories": [
+                                {
+                                    "name": "METODE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "analisis spasial dengan taraf signifikansi 10 persen",
+                            "endOffset": 384,
+                            "mid": "20231128080421512-3"
+                        },
+                        {
+                            "beginOffset": 419,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "peta sebaran tingkat pengangguran terbuka tahun 2020",
+                            "endOffset": 471,
+                            "mid": "20231128080428600-5"
+                        },
+                        {
+                            "beginOffset": 478,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "model yang paling cocok menggambarkan tingkat pengangguran terbuka",
+                            "endOffset": 544,
+                            "mid": "20231128080440486-6"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    },
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/clpcb6azb0766081l6d753w79/assets/clpcc0dkt001t356jw6znfc1f/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T034337Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=24a220ad5a1434c15f503bed7f7fca6b81555ee09cdbc5524186479c690df736aac1f6b3d2a88dfa69f89f445a9a2533a75e1d259b5e8c3aa48dfb8922164fffcc34293eb76c9ee6d24af9cb09480baa1c599bf8b2323498fac4d986306779b652e3b896eca7c14d20c4de14975ad60ae423c75ec4d27c34020e310e4fbc214656e4f759d31df8a7040648f95360957f42f00bf05ab5ad3713347a393678bac5d0a1ced6589f7cb8d44ab55f78fb76f2ffe7187e93254ab5f03c666afbe56b5c5a275dc626e56772c8f2c1eea2ef9e38c22f154a210ad51262777e404ebeda840911cdda95801ec16c9cc368ff9d2538d0604e5d9fc5ff2f989293c60875473f",
+        "externalId": "split_13_clean.txt",
+        "id": "clpcc0dkt001t356jw6znfc1f",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "222011374@stis.ac.id",
+                "firstname": "alwan",
+                "id": "clp98iznf11eg085s5jx2hyyl",
+                "lastname": "subian",
+                "name": "alwan subian"
+            },
+            "createdAt": "2023-11-28T01:24:06.566Z",
+            "isLatestLabelForUser": true,
+            "jsonResponse": {
+                "NAMED_ENTITIES_RECOGNITION_JOB": {
+                    "annotations": [
+                        {
+                            "beginOffset": 522,
+                            "categories": [
+                                {
+                                    "name": "TUJUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "hate speech perlu diatasi dengan pendeteksian hate speech secara otomatis",
+                            "endOffset": 595,
+                            "mid": "20231128082244127-14"
+                        },
+                        {
+                            "beginOffset": 923,
+                            "categories": [
+                                {
+                                    "name": "METODE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "model SVM, SVM dengan berbagai metode resampling, fine-tuned IndoBERT, dan fine-tuned mBERT",
+                            "endOffset": 1014,
+                            "mid": "20231128082314820-17"
+                        },
+                        {
+                            "beginOffset": 1050,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "keadaan imbalanced dapat menurunkan kinerja SVM dan model finetuned",
+                            "endOffset": 1117,
+                            "mid": "20231128082325125-19"
+                        },
+                        {
+                            "beginOffset": 1164,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "fine-tuned IndoBERT dapat menangkap konteks kalimat lebih baik dari pada SVM",
+                            "endOffset": 1240,
+                            "mid": "20231128082334244-20"
+                        },
+                        {
+                            "beginOffset": 1259,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "penerapan strategi oversampling pada SVM dapat meningkatkan kinerja SVM untuk kondisi imbalanced dataset",
+                            "endOffset": 1363,
+                            "mid": "20231128082340094-21"
+                        },
+                        {
+                            "beginOffset": 1365,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Kombinasi model SVM dan SMOTE memberikan performa terbaik dalam menangani masalah imbalanced dataset",
+                            "endOffset": 1465,
+                            "mid": "20231128082355291-22"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    },
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/clpcb6azb0766081l6d753w79/assets/clpcc0dkt001u356j3r9eeb58/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T034337Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=8d9beb7df1b2ad95a5464e79c8fb724b79937569b0b4aa680c73f38a3489553048998c1d741787af4607089f1f1037a0ea93cfaaed4b314333ba32aee7a4fba9353edc7fde44d37c9585f6b066ece7e72a0b19b488327fe459c1d0a1db4f55f7c162b1c95aa3b3ae696f5aed49d60014d847796202b215da69f0ec468d3e9928a271e49dddf289d372b4c55d279dc244c03f61794ffb2f8e50e5568aaafc6a9286dbaee3a8642cc83692a5d6af4202f208182def276116eae2561b40e50df15a92348b19293133882d2ebb23654efbc93a51141138ec7191b37c6b2664de143bdde02ce42c13f039bb1d9d60db274fe78e0d5ae97759d1709c649f62788c7226",
+        "externalId": "split_14_clean.txt",
+        "id": "clpcc0dkt001u356j3r9eeb58",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "222011374@stis.ac.id",
+                "firstname": "alwan",
+                "id": "clp98iznf11eg085s5jx2hyyl",
+                "lastname": "subian",
+                "name": "alwan subian"
+            },
+            "createdAt": "2023-11-28T03:17:53.439Z",
+            "isLatestLabelForUser": true,
+            "jsonResponse": {
+                "NAMED_ENTITIES_RECOGNITION_JOB": {
+                    "annotations": [
+                        {
+                            "beginOffset": 812,
+                            "categories": [
+                                {
+                                    "name": "TUJUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "diperlukan suatu sistem untuk meningkatkan kinerja pengelolaan data sebagai sarana pengambilan keputusan yang diharapkan dapat memaksimalkan hasil penempatan berdasarkan kebutuhan organisasi",
+                            "endOffset": 1002,
+                            "mid": "20231128082412365-24"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    },
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/clpcb6azb0766081l6d753w79/assets/clpcc0dkt001v356juprbjgty/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T034337Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=7fb78b7e2cd9e44384bd311729b5ac23763d696154d15be76bfd88299b75191eb35415e7ac25cf567766e49e0e4bf5414899a563ab656e04121dae69c13ecb3adf28fc37f2b5c274f2169c790007aa2bb4188df7acb549d2b6687ce5ce249d5bc375ecfc319ef0e90c07e88967038973e38be0734b81a866018fd775ffd29e1d5aae3fb98784ca8c3b99cb19d72db3f90eb66bd98637aec578ab047f9b49fc5d5543cd486f0b1ab63ea3f44e9b3765c6af73555dc3cbbe39df7ea97023b8b5722097d40b783662f89151f4f70b8e29d15b886fbb891e41085f556681e2b1a775963865a9a16edcbcb2b3c1fbbd39e0396d41e170e66e0d244ee78fe77e44da55",
+        "externalId": "split_15_clean.txt",
+        "id": "clpcc0dkt001v356juprbjgty",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "222011374@stis.ac.id",
+                "firstname": "alwan",
+                "id": "clp98iznf11eg085s5jx2hyyl",
+                "lastname": "subian",
+                "name": "alwan subian"
+            },
+            "createdAt": "2023-11-28T03:20:34.346Z",
+            "isLatestLabelForUser": true,
+            "jsonResponse": {
+                "NAMED_ENTITIES_RECOGNITION_JOB": {
+                    "annotations": [
+                        {
+                            "beginOffset": 414,
+                            "categories": [
+                                {
+                                    "name": "TUJUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "mengetahui layanan aplikasi PeduliLindungi yang perlu ditingkatkan",
+                            "endOffset": 480,
+                            "mid": "20231128101758760-2"
+                        },
+                        {
+                            "beginOffset": 750,
+                            "categories": [
+                                {
+                                    "name": "METODE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Algoritma Logistic Regression, Support Vector Machine, dan Random Forest",
+                            "endOffset": 822,
+                            "mid": "20231128101824439-4"
+                        },
+                        {
+                            "beginOffset": 908,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Logistic Regression memiliki nilai akurasi dan f1-score terbaik",
+                            "endOffset": 971,
+                            "mid": "20231128101928225-8"
+                        },
+                        {
+                            "beginOffset": 973,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Pemodelan topik menggunakan Latent Dirichlet Allocation dan menghasilkan model topik terbaik dengan jumlah 10 topik",
+                            "endOffset": 1088,
+                            "mid": "20231128102000982-9"
+                        },
+                        {
+                            "beginOffset": 1090,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Layanan aplikasi PeduliLindungi yang membutuhkan peningkatan berdasarkan hasil analisis adalah sertifikat vaksin, fitur Login, fitur Check In, pengisian tanggal lahir, status vaksinasi, dan performa aplikasi PeduliLindungi",
+                            "endOffset": 1312,
+                            "mid": "20231128102019837-10"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    },
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/clpcb6azb0766081l6d753w79/assets/clpcc0dkt001w356jkv56qw57/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T034337Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=110fac96c1da4772901f9d6741b3b3be2c8bb12ceaf47b57c1622a4bdff2093c1780850812ecf17597cb70cdfd184a38b7001af1d9f1518420755f1da8fe732c75404951fb49f4b3c50e789c8334d494f2318c2e65f829bbbc5cf7d61ee976c95539cca0b90007bd0f8876f6df8c925d07f29524d173bdb0ec9fab570adbb1853786ba72b752fc486db27b67ccb09ec5df18871ad34227bffdec6ff06b6ec7be4a6ea3aac5b53d9769859ff3b70df06673e47d423c69429fae5c2062a2f82f8495d67d25d7fe04f46461b120270202d4f9d63854efea96e82289b1c1c9d9d7f8a5dde36826836a7e4722da8bc58b776854aabafec316157d527aef2df1530d00",
+        "externalId": "split_16_clean.txt",
+        "id": "clpcc0dkt001w356jkv56qw57",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "222011374@stis.ac.id",
+                "firstname": "alwan",
+                "id": "clp98iznf11eg085s5jx2hyyl",
+                "lastname": "subian",
+                "name": "alwan subian"
+            },
+            "createdAt": "2023-11-28T03:38:18.385Z",
+            "isLatestLabelForUser": true,
+            "jsonResponse": {
+                "NAMED_ENTITIES_RECOGNITION_JOB": {
+                    "annotations": [
+                        {
+                            "beginOffset": 353,
+                            "categories": [
+                                {
+                                    "name": "TUJUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "pembangunan KMS web untuk mahasiswa Polstat STIS",
+                            "endOffset": 401,
+                            "mid": "20231128102039152-12"
+                        },
+                        {
+                            "beginOffset": 414,
+                            "categories": [
+                                {
+                                    "name": "METODE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "metode pembangunan sistem KMSLC",
+                            "endOffset": 445,
+                            "mid": "20231128103223925-14"
+                        },
+                        {
+                            "beginOffset": 1085,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Skor PSSUQ KMS secara keseluruhan yang didapatkan sebesar 1.8",
+                            "endOffset": 1146,
+                            "mid": "20231128103229393-16"
+                        },
+                        {
+                            "beginOffset": 1218,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "Persentase dari Webqual sebesar 56.3% responden menyatakan sangat setuju dengan kualitas pengetahuan pada KMS",
+                            "endOffset": 1327,
+                            "mid": "20231128103305242-17"
+                        },
+                        {
+                            "beginOffset": 1362,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "67.3% responden juga sangat setuju dengan kedua pernyataan pada pengujian fitur pencarian",
+                            "endOffset": 1451,
+                            "mid": "20231128103319432-18"
+                        },
+                        {
+                            "beginOffset": 1491,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "KMS yang dibangun sudah dapat mencapai tujuan-tujuan dari penelitian ini",
+                            "endOffset": 1563,
+                            "mid": "20231128103326855-19"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    },
+    {
+        "content": "https://storage.googleapis.com/label-backend-production/projects/clpcb6azb0766081l6d753w79/assets/clpcc0dkt001x356jmyq605m9/content?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=1079907991635-compute%40developer.gserviceaccount.com%2F20231128%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231128T034337Z&X-Goog-Expires=18000&X-Goog-SignedHeaders=host&X-Goog-Signature=66231e85aea3273c3a003b53aa79a4c3bb8be23d7392f46bb53f8e50ff8dd302648b19455519ab2bcd9a723bf52e69103f10429ab1416aeb364aedd8781651a23927d0609c89107e3e97c9f71954a020ccaa06c1727955ef83aa5488125b788c1b5cb10c299fb75d0488878f9747f7e1ef12dbaec78c1fca40d47caaa8aa98a240bc134cab632f58ac8ae0aa7f0562393ecd28432326a533e18d73797a0e1891769936bbb53ff990efe84d89c71a5e06e803310168a1a0b8b650fcc9d67dc9eabf362b6bef7b498e95b7734caa4faef6cdece6adc125e4c4d43d366f1ec41f4aebf7826370a9bd236cdb04dd6d3d0e16c4c1eef2089b524959b9928675f87a6d",
+        "externalId": "split_17_clean.txt",
+        "id": "clpcc0dkt001x356jmyq605m9",
+        "isProcessingAuthorized": true,
+        "jsonContent": "",
+        "jsonMetadata": {},
+        "latestLabel": {
+            "author": {
+                "email": "222011374@stis.ac.id",
+                "firstname": "alwan",
+                "id": "clp98iznf11eg085s5jx2hyyl",
+                "lastname": "subian",
+                "name": "alwan subian"
+            },
+            "createdAt": "2023-11-28T03:43:15.132Z",
+            "isLatestLabelForUser": true,
+            "jsonResponse": {
+                "NAMED_ENTITIES_RECOGNITION_JOB": {
+                    "annotations": [
+                        {
+                            "beginOffset": 778,
+                            "categories": [
+                                {
+                                    "name": "TUJUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "membangun sebuah aplikasi yang mampu memvisualisasikan data IRIO ke dalam bentuk peta dan grafik interaktif",
+                            "endOffset": 885,
+                            "mid": "20231128104213312-24"
+                        },
+                        {
+                            "beginOffset": 954,
+                            "categories": [
+                                {
+                                    "name": "METODE"
+                                }
+                            ],
+                            "children": {},
+                            "content": "System Development Life Cycle (SDLC) model Waterfall",
+                            "endOffset": 1006,
+                            "mid": "20231128104249360-26"
+                        },
+                        {
+                            "beginOffset": 1045,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "sebuah aplikasi visualisasi IRIO yang dapat menyajikan data IRIO secara interaktif berbasis web yang dapat meningkatkan efisiensi dan efektifitas penyajian data IRIO",
+                            "endOffset": 1210,
+                            "mid": "20231128104256752-28"
+                        },
+                        {
+                            "beginOffset": 1294,
+                            "categories": [
+                                {
+                                    "name": "TEMUAN"
+                                }
+                            ],
+                            "children": {},
+                            "content": "diperoleh skor sebesar 78,003 dari hasil evaluasi System Usability Scale (SUS) yang menunjukkan bahwa aplikasi telah dapat diterima dengan baik oleh pengguna",
+                            "endOffset": 1451,
+                            "mid": "20231128104304236-29"
+                        }
+                    ]
+                }
+            },
+            "labelType": "DEFAULT",
+            "modelName": null
+        },
+        "pageResolutions": null,
+        "resolution": null,
+        "skipped": false
+    }
+]
