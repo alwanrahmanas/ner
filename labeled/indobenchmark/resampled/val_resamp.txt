@@ -1921,8 +1921,7 @@ minoritas	I-TEMUAN
 adalah	I-TEMUAN
 emosi	I-TEMUAN
 terkejut.	I-TEMUAN
-Makalah	O
-Skripsi	O
+
 –	O
 Program	O
 Studi	O

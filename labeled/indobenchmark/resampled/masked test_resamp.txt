@@ -2961,8 +2961,7 @@ waktu	O
 dalam	O
 memberikan	O
 informasi.	O
-Makalah	O
-Skripsi	O
+
 –	O
 Program	O
 Studi	O
@@ -5479,9 +5478,6 @@ estimasi	O
 produksi	O
 menggunakan	O
 rumus	O
-Makalah	O
-Sidang	O
-Skripsi	O
 
 menghasilkan	O
 penduga	O

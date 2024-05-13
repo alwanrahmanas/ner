@@ -1,17 +1,3 @@
-netral	O
-adalah	O
-2.013	O
-,	O
-sentimen	O
-negatif	O
-sebanyak	O
-907	O
-,	O
-dan	O
-sentimen	O
-positif	O
-sebanyak	O
-241.	O
 Hasil	B-TEMUAN
 penelitian	I-TEMUAN
 menunjukkan	I-TEMUAN
@@ -109,12 +95,6 @@ learning	O
 yaitu	O
 Logictic	O
 
-mencari	O
-parameter	O
-terbaik	O
-dengan	O
-grid	O
-search.	O
 Hasil	O
 dari	O
 analisis	O
@@ -712,15 +692,6 @@ dihasilkan	O
 secara	O
 topik	O
 yang	O
-Makalah	O
-Sidang	O
-Skripsi	O
-–	O
-Program	O
-Studi	O
-D-IV	O
-Komputasi	O
-Statistik	O
 
 kasus	O
 depresi	O
@@ -4575,15 +4546,6 @@ ekstrinsik	O
 didapat	O
 akurasi	O
 
-Makalah	O
-Sidang	O
-Skripsi	O
-–	O
-Program	O
-Studi	O
-D-IV	O
-Komputasi	O
-Statistik	O
 Estimasi	O
 Luas	O
 Panen	O

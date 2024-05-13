@@ -5349,15 +5349,7 @@ sebelumnya.	O
 dibangun	O
 Sistem	O
 risiko	O
-Makalah	O
-Sidang	O
-Skripsi	O
-–	O
-Program	O
-Studi	O
-D-IV	O
-Komputasi	O
-Statistik	O
+
 tersebut.	B-TEMUAN
 Hasil	I-TEMUAN
 pengujian	I-TEMUAN
@@ -5606,8 +5598,6 @@ cukup	O
 dibuat	O
 andal	O
 yang	O
-Makalah	O
-Skripsi	O
 
 digunakan	O
 untuk	O
@@ -6632,13 +6622,6 @@ dapat	I-TEMUAN
 diterima	I-TEMUAN
 oleh	I-TEMUAN
 pengguna.	I-TEMUAN
-Makalah	O
-Seminar	O
-Skripsi	O
-–	O
-Program	O
-Studi	O
-D-IV	O
 
 elektronik	O
 sehingga	O
@@ -11843,15 +11826,7 @@ series.	I-TEMUAN
 7	O
 /	O
 8	O
-Makalah	O
-Sidang	O
-Skripsi	O
-–	O
-Program	O
-Studi	O
-D-IV	O
-Komputasi	O
-Statistik	O
+
 [	O
 16	O
 ]	O
@@ -12227,15 +12202,6 @@ yang	I-TEMUAN
 juga	I-TEMUAN
 relatif	I-TEMUAN
 rendah.	I-TEMUAN
-Makalah	O
-Sidang	O
-Skripsi	O
-–	O
-Program	O
-Studi	O
-D-IV	O
-Komputasi	O
-Statistik	O
 
 masing-masing	O
 digunakan	O
@@ -16632,15 +16598,7 @@ Sistem	O
 ini	O
 terdiri	O
 dari	O
-Makalah	O
-Sidang	O
-Skripsi	O
-–	O
-Program	O
-Studi	O
-D-IV	O
-Komputasi	O
-Statistik	O
+
 mampu	O
 menghasilkan	O
 output	O
@@ -19643,9 +19601,6 @@ nama	I-TEMUAN
 “msaeOB”	I-TEMUAN
 dan	O
 dapat	O
-Makalah	O
-Sidang	O
-Skripsi	O
 
 cara	O
 mengakses	O
@@ -19977,15 +19932,7 @@ mudah	I-TEMUAN
 2.	O
 3.	O
 4.	O
-Makalah	O
-Sidang	O
-Skripsi	O
-–	O
-Program	O
-Studi	O
-D-IV	O
-Komputasi	O
-Statistik	O
+
 untuk	O
 digunakan	O
 ,	O
@@ -22852,8 +22799,7 @@ hasil	I-TEMUAN
 black	I-TEMUAN
 box	I-TEMUAN
 testing.	I-TEMUAN
-Makalah	O
-Skripsi	O
+
 –	O
 Program	O
 Studi	O
@@ -23155,15 +23101,7 @@ BAAK	O
 untuk	O
 menambahkan	O
 nilai	O
-Makalah	O
-Sidang	O
-Skripsi	O
-–	O
-Program	O
-Studi	O
-D-IV	O
-Komputasi	O
-Statistik	O
+
 Saat	O
 ini	O
 ,	O
@@ -24670,8 +24608,7 @@ didapatkan	O
 kesimpulan	O
 sebagai	O
 berikut.	O
-Makalah	O
-Skripsi	O
+
 –	O
 Program	O
 Studi	O
@@ -24855,7 +24792,7 @@ QUIS	I-METODE
 sistem	O
 mendapat	O
 nilai	O
-Makalah	O
+baik O
 
 standar	O
 klasifikasi	O
@@ -25949,15 +25886,7 @@ aplikasi	I-TEMUAN
 sudah	I-TEMUAN
 berjalan	I-TEMUAN
 dengan	I-TEMUAN
-Makalah	O
-Sidang	O
-Skripsi	O
-–	O
-Program	O
-Studi	O
-D-IV	O
-Komputasi	O
-Statistik	O
+
 baik	O
 sesuai	O
 dengan	O
@@ -30643,9 +30572,7 @@ performa	O
 7	O
 /	O
 8	O
-Makalah	O
-Sidang	O
-Skripsi	O
+
 –	O
 21	O
 ]	O
@@ -35117,14 +35044,6 @@ transisi	O
 mayoritas	O
 responden	O
 
-Makalah	O
-Sidang	O
-–	O
-Program	O
-Studi	O
-D-IV	O
-Komputasi	O
-Statistik	O
 Pengembangan	O
 Data	O
 Warehouse	O
@@ -36039,15 +35958,7 @@ dibuat	I-TEMUAN
 7	O
 /	O
 8	O
-Makalah	O
-Sidang	O
-Skripsi	O
-–	O
-Program	O
-Studi	O
-D-IV	O
-Komputasi	O
-Statistik	O
+
 dapat	O
 
 untuk	O
@@ -36127,15 +36038,7 @@ Blackbos	B-METODE
 Testing	I-METODE
 dan	I-METODE
 SUS.	I-METODE
-Makalah	O
-Seminar	O
-Skripsi	O
-–	O
-Program	O
-Studi	O
-D-IV	O
-Komputasi	O
-Statistik	O
+
 ini	O
 penulis	O
 akan	O
@@ -36381,15 +36284,6 @@ fitur	O
 yang	O
 telah	O
 
-Makalah	O
-Sidang	O
-Skripsi	O
-–	O
-Program	O
-Studi	O
-D-IV	O
-Komputasi	O
-Statistik	O
 Pembangunan	O
 Sistem	O
 Informasi	O
@@ -38595,8 +38489,7 @@ ubinan	I-TUJUAN
 padi	I-TUJUAN
 berbasis	I-TUJUAN
 web.	I-TUJUAN
-Makalah	O
-Skripsi	O
+
 –	O
 Program	O
 Studi	O
@@ -39674,9 +39567,7 @@ di	O
 7	O
 /	O
 8	O
-Makalah	O
-Sidang	O
-Skripsi	O
+
 –	O
 Program	O
 
@@ -41963,8 +41854,7 @@ tambahan	I-TEMUAN
 survei	I-TEMUAN
 ubinan	I-TEMUAN
 palawija.	I-TEMUAN
-Makalah	O
-Skripsi	O
+
 –	O
 Program	O
 Studi	O
@@ -44352,15 +44242,7 @@ twit	I-TEMUAN
 hate	I-TEMUAN
 speech	I-TEMUAN
 dengan	O
-Makalah	O
-Sidang	O
-Skripsi	O
-–	O
-Program	O
-Studi	O
-D-IV	O
-Komputasi	O
-Statistik	O
+
 akurasi	B-METODE
 83,51	O
 %	O
