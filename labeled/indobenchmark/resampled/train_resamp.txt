@@ -44814,7 +44814,7 @@ memiliki	O
 kelebihan	O
 dan	O
 kekurangan	O
-masing-masing.	B-METODE
+masing-masing.	O
 Regresi	I-METODE
 complementary	I-METODE
 log-log	I-METODE
