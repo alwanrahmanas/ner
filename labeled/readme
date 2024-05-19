@@ -1,3 +1,5 @@
 1. Clean All Data, berisi banyak column yang terdiri dari concat token (gabungan abstrak conclusion), abstrak, conclusion, resampled, judul, studi kasus, dan nim
 
 2. BUS 2 Threshold sudah format standar
+
+3. clean 372 tanpa makalah sidang blablabla itu format standar tokens ner_tags
